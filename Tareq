@@ -1,0 +1,54 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Ultimate Zone Profile</title>
+</head>
+<body style="font-family: Arial, sans-serif; background-color: #f4f4f9; color: #333; margin: 0; padding: 0;">
+
+<!-- Header Section with Your Custom Profile Info -->
+<header style="text-align: center; padding: 40px 20px; background-color: #fff; border-bottom: 1px solid #ddd;">
+<!-- This creates a perfect circle container with a giant text emoji inside -->
+<div style="width: 150px; height: 150px; border-radius: 50%; background-color: #fff; border: 3px solid #00C4CC; margin: 0 auto; display: flex; align-items: center; justify-content: center; font-size: 80px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+🍊
+</div>
+<h1 style="margin: 15px 0 5px 0;">Welcome to My Profile</h1>
+<p style="margin: 0; color: #666; font-size: 1.1em;">Hi, I am a content creator. Welcome to my personal corner of the web!</p>
+</header>
+
+<!-- Main Content Section -->
+<main style="max-width: 600px; margin: 30px auto; padding: 20px; background-color: #fff; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.05);">
+
+<!-- About Me Box -->
+<section style="margin-bottom: 30px;">
+<h2 style="color: #00C4CC; border-bottom: 2px solid #f4f4f9; padding-bottom: 10px;">About Me</h2>
+<p style="line-height: 1.6;">i am a 6th grader trying to start a business.</p>
+</section>
+
+<!-- Canva Website Feature -->
+<section style="text-align: center; padding: 20px 0;">
+<h2 style="color: #00C4CC; margin-bottom: 10px;">Visit The Ultimate Zone</h2>
+<p style="margin-bottom: 25px; color: #555;">Check out my awesome Canva website project by clicking the button below!</p>
+
+<!-- Your Ultimate Zone Link -->
+<p style="margin: <p style="margin-bottom: 25px;">
+<a href="https://test-web-t.my.canva.site/t12322" target="_blank" style="display: inline-block; background-color: #00C4CC; color: white; padding: 12px 30px; text-decoration: none; border-radius: 25px; font-weight: bold; font-size: 1.1em; box-shadow: 0 4px 10px rgba(0, 196, 204, 0.3);">
+Enter the Ultimate Zone
+</a>
+</p>
+background-color: #00C4CC; color: white; padding: 12px 30px; text-decoration: none; border-radius: 25px; font-weight: bold; font-size: 1.1em; box-shadow: 0 4px 10px rgba(0, 196, 204, 0.3);">
+Enter the Ultimate Zone
+</a>
+</p>
+</section>
+
+</main>
+
+<!-- Footer -->
+<footer style="text-align: center; padding: 20px; color: #999; font-size: 0.9em;">
+<p>© 2026 My Profile Website</p>
+</footer>
+
+</body>
+</html>
